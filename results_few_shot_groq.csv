@@ -1,0 +1,201 @@
+approach,actual_stars,predicted_stars,explanation,json_valid
+Few-Shot,4,4,"Positive service/food, with some negative comments about the atmosphere.",True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,3,4,Positive experience with food and atmosphere.,True
+Few-Shot,1,1,Negative experience with service and repair.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive with minor complaints.,True
+Few-Shot,4,4,Positive with minor complaints.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,5,5,Positive enthusiasm and praise for multiple aspects of the business.,True
+Few-Shot,1,1,"Negative service/food, repeated negative experiences.",True
+Few-Shot,4,5,Positive enthusiasm and satisfaction with service.,True
+Few-Shot,5,5,Positive enthusiasm and multiple positive comments.,True
+Few-Shot,3,5,Positive enthusiasm,True
+Few-Shot,4,4,"Positive, with some constructive criticism.",True
+Few-Shot,5,5,Positive service experience.,True
+Few-Shot,2,3,Neutral with negative comments on price and fries.,True
+Few-Shot,4,2,"Mixed feelings, mostly negative.",True
+Few-Shot,4,4,"Positive, helpful information.",True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,5,4,Positive convenience.,True
+Few-Shot,5,5,Positive enthusiasm and satisfaction with multiple aspects of the experience.,True
+Few-Shot,5,5,Positive enthusiasm and high praise for food quality and value.,True
+Few-Shot,1,1,"Negative service, food, and overall experience.",True
+Few-Shot,4,4,"Positive service, mixed room and food experience.",True
+Few-Shot,4,5,Positive enthusiasm and satisfaction with food quality and service.,True
+Few-Shot,4,4,Positive experience with specific details.,True
+Few-Shot,1,1,Negative sentiment towards prices.,True
+Few-Shot,4,4,Positive experience with some minor complaints.,True
+Few-Shot,2,2,Mixed review with both positive and negative comments.,True
+Few-Shot,2,1,Negative service/food.,True
+Few-Shot,1,1,"Negative service/food, multiple complaints about quality and taste.",True
+Few-Shot,1,1,Strong negative language and criticism of the gas station's unique payment system.,True
+Few-Shot,3,4,Mixed review with some positive and negative comments.,True
+Few-Shot,4,5,Positive enthusiasm and glowing review.,True
+Few-Shot,5,5,Positive enthusiasm and emphasis on cleanliness and efficiency.,True
+Few-Shot,5,5,Positive enthusiasm and recommendation.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,5,4,Mixed review with both positive and negative comments.,True
+Few-Shot,4,4,Positive experience with some minor complaints.,True
+Few-Shot,2,1,Negative service/food.,True
+Few-Shot,3,2,Negative experience with mediocre food and high prices.,True
+Few-Shot,1,1,"Negative experience with multiple issues, including poor food quality and service.",True
+Few-Shot,1,2,Mixed review with both positive and negative points.,True
+Few-Shot,3,1,Negative experience with navigation and trail markings.,True
+Few-Shot,4,5,"Positive enthusiasm and praise for food, service, and atmosphere.",True
+Few-Shot,4,5,Positive enthusiasm and high praise for food and service.,True
+Few-Shot,4,4,"Positive experience with organized store, friendly staff, and good selection of products.",True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,5,"Positive enthusiasm and detailed, glowing review of the food and service.",True
+Few-Shot,1,1,Negative service/food and multiple issues with the taxi service.,True
+Few-Shot,1,1,Negative experience with food quality and service.,True
+Few-Shot,3,3,Neutral.,True
+Few-Shot,4,4,Positive atmosphere and experience.,True
+Few-Shot,4,4,Positive with minor criticism.,True
+Few-Shot,4,4,Positive overall experience with some minor complaints.,True
+Few-Shot,3,3,"Mixed feelings, mostly neutral.",True
+Few-Shot,5,5,"Positive enthusiasm and satisfaction with service, food, and atmosphere.",True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,5,5,Positive enthusiasm and consistent satisfaction.,True
+Few-Shot,1,1,Negative service/food and poor value for money.,True
+Few-Shot,2,1,Negative service/food and poor business hours.,True
+Few-Shot,2,1,Negative service/food and overall experience.,True
+Few-Shot,4,4,Positive experience with some minor drawbacks.,True
+Few-Shot,3,2,"Neutral, with some negative comments.",True
+Few-Shot,4,4,Positive experience with minor complaints.,True
+Few-Shot,2,2,Mixed feelings with some negative points.,True
+Few-Shot,5,5,Positive enthusiasm and repeated positive experiences.,True
+Few-Shot,5,5,Positive enthusiasm and satisfaction with food and service.,True
+Few-Shot,2,1,Negative food quality.,True
+Few-Shot,4,5,"Positive enthusiasm and praise for service, food, and overall experience.",True
+Few-Shot,3,3,"Neutral, with specific positive and negative comments.",True
+Few-Shot,2,1,Negative change in experience.,True
+Few-Shot,5,5,"Positive enthusiasm and praise for food, service, and originality.",True
+Few-Shot,4,5,"Positive enthusiasm and specific praise for staff, atmosphere, and location.",True
+Few-Shot,3,2,Mixed review with both positive and negative comments.,True
+Few-Shot,5,5,Positive enthusiasm and appreciation for the donation program and staff.,True
+Few-Shot,2,1,Negative experience with billing.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,3,4,Positive experience with some negative aspects.,True
+Few-Shot,5,5,Positive enthusiasm and praise for multiple dishes and service.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive experience with food and service.,True
+Few-Shot,4,4,Mixed experience with some standout dishes and slow service.,True
+Few-Shot,4,4,Positive enthusiasm and specific praise for multiple aspects of the business.,True
+Few-Shot,4,4,Positive atmosphere and experience.,True
+Few-Shot,5,4,Positive with minor negative comments.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive experience with good value.,True
+Few-Shot,4,4,Positive mention of food quality and cultural comparison.,True
+Few-Shot,3,4,Positive comparison to another store.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,3,2,Mixed experience with both positive and negative aspects.,True
+Few-Shot,3,1,Negative sentiment.,True
+Few-Shot,5,5,Positive enthusiasm and glowing review.,True
+Few-Shot,4,5,Positive enthusiasm and emphasis on staff.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive with minor criticism.,True
+Few-Shot,4,5,Positive description of cleanliness and convenience.,True
+Few-Shot,4,4,Mixed experience with some positive and negative aspects.,True
+Few-Shot,2,2,Mixed review with positive and negative comments.,True
+Few-Shot,4,4,"Positive atmosphere, food, and service, with some minor criticisms.",True
+Few-Shot,5,5,Positive enthusiasm and high praise for the venue and its owner.,True
+Few-Shot,4,5,Positive enthusiasm and glowing description of the establishment.,True
+Few-Shot,4,2,Mixed experience with some positive and negative aspects.,True
+Few-Shot,2,2,"Negative service/food, despite loyalty and past positive experiences.",True
+Few-Shot,3,4,"Positive service, but negative change in product offerings.",True
+Few-Shot,1,1,"Strong negative language and criticism of service, food, and atmosphere.",True
+Few-Shot,2,2,Mixed feelings with some negative aspects.,True
+Few-Shot,5,5,Positive enthusiasm and praise for multiple aspects.,True
+Few-Shot,5,5,"Positive enthusiasm and glowing praise for food, service, and overall experience.",True
+Few-Shot,4,5,Positive enthusiasm and detailed description of good food.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,4,5,Positive enthusiasm and appreciation for the store's offerings.,True
+Few-Shot,3,4,Positive food experience with some minor complaints.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,5,Positive enthusiasm and praise for food and service.,True
+Few-Shot,3,3,"Neutral, with some positive and negative aspects.",True
+Few-Shot,1,1,"Negative service/food, despite positive location and owner.",True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,3,5,Positive enthusiasm and satisfaction with food and service.,True
+Few-Shot,1,1,Negative service/food.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive experience with minor criticism.,True
+Few-Shot,4,4,Positive comparison and overall satisfaction.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive with minor criticism.,True
+Few-Shot,4,3,Neutral with some negative comments.,True
+Few-Shot,4,5,Positive enthusiasm and glowing review.,True
+Few-Shot,5,5,Positive enthusiasm and appreciation for the theater's unique offerings and the owner's commitment.,True
+Few-Shot,4,5,Positive enthusiasm and overall satisfaction with food and service.,True
+Few-Shot,3,3,Mixed experience with both positive and negative comments.,True
+Few-Shot,4,4,Positive experience with minor complaints.,True
+Few-Shot,3,4,Positive with minor complaints.,True
+Few-Shot,4,4,Positive experience with some reservations.,True
+Few-Shot,5,5,Positive enthusiasm and satisfaction with service.,True
+Few-Shot,5,5,Positive enthusiasm and detailed description of excellent food and service.,True
+Few-Shot,4,4,Mixed positive and negative experiences.,True
+Few-Shot,3,4,Positive description of facilities and experience.,True
+Few-Shot,4,5,Positive enthusiasm and glowing review with minor criticisms.,True
+Few-Shot,4,5,Positive enthusiasm and satisfaction with service and food.,True
+Few-Shot,1,2,"Negative experience with high prices and distractions, but some redeeming qualities for families.",True
+Few-Shot,5,5,Positive enthusiasm and consistent experience.,True
+Few-Shot,4,4,Mixed feelings with some positive and negative aspects.,True
+Few-Shot,4,5,Positive enthusiasm and recommendation.,True
+Few-Shot,3,2,"Negative comparison to other options, with some positive comments.",True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,4,"Positive, but with some negative comments.",True
+Few-Shot,4,5,Positive enthusiasm and multiple positive comments about food and service.,True
+Few-Shot,3,3,"Neutral, with positive comments on food and service.",True
+Few-Shot,4,5,Positive enthusiasm and specific praise for food quality.,True
+Few-Shot,5,5,Positive enthusiasm and appreciation for the unique features of the botanical gardens.,True
+Few-Shot,5,5,Positive enthusiasm and recommendation.,True
+Few-Shot,4,4,Mixed experience with some positives and negatives.,True
+Few-Shot,2,2,"Negative service, positive food.",True
+Few-Shot,5,5,Positive enthusiasm and appreciation for the performance.,True
+Few-Shot,4,5,Positive enthusiasm and appreciation for the restaurant's offerings and the Cuban culture.,True
+Few-Shot,1,1,"Negative service/food, outdated/overly decorated interior, and lack of flavor.",True
+Few-Shot,2,2,"Negative experience with high expectations, but good service.",True
+Few-Shot,3,3,"Neutral, with both positive and negative comments.",True
+Few-Shot,4,5,Positive enthusiasm and praise for multiple aspects of the business.,True
+Few-Shot,2,2,Mixed experience with negative and positive elements.,True
+Few-Shot,1,1,Negative service/food.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive with minor criticism.,True
+Few-Shot,5,5,Positive enthusiasm and glowing recommendation.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,4,4,Positive experience with consistent quality.,True
+Few-Shot,4,5,"Positive enthusiasm and high praise for service, amenities, and overall experience.",True
+Few-Shot,4,4,Positive overall experience with some negative issues.,True
+Few-Shot,3,5,Positive enthusiasm towards a specific feature (train display) that appeals to children.,True
+Few-Shot,3,3,Neutral.,True
+Few-Shot,4,4,Positive experience with some negative comments.,True
+Few-Shot,5,5,Positive enthusiasm and appreciation for the tour guides and the experience.,True
+Few-Shot,5,5,Positive enthusiasm and high praise for service and expertise.,True
+Few-Shot,4,4,Positive experience with some minor issues.,True
+Few-Shot,3,1,Negative value for money.,True
+Few-Shot,1,1,Negative service/food.,True
+Few-Shot,3,4,Positive with minor negative comments.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,3,5,Positive enthusiasm,True
+Few-Shot,5,5,Positive enthusiasm and repeated positive experiences.,True
+Few-Shot,5,5,Positive enthusiasm for specific aspect (happy hour menu),True
+Few-Shot,5,5,Positive enthusiasm and repeated positive experiences.,True
+Few-Shot,4,4,Positive experience with minor drawbacks.,True
+Few-Shot,2,2,Neutral with slight negativity.,True
+Few-Shot,4,4,Positive with minor negative comment.,True
+Few-Shot,3,4,Generally positive with some minor complaints.,True
+Few-Shot,5,5,Positive enthusiasm and excellent service.,True
+Few-Shot,5,5,Positive enthusiasm and emphasis on quality.,True
+Few-Shot,3,2,Mixed experience with both positive and negative aspects.,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,3,4,Positive experience with some reservations.,True
+Few-Shot,5,5,Positive enthusiasm,True
+Few-Shot,4,5,Positive enthusiasm,True
+Few-Shot,4,5,Positive enthusiasm and comparison to a similar business.,True
+Few-Shot,3,5,Positive enthusiasm and detailed description of the food and atmosphere.,True
+Few-Shot,4,5,Positive enthusiasm and excellent service.,True
+Few-Shot,5,5,Positive enthusiasm and detailed description of the experience.,True
