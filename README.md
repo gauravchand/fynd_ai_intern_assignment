@@ -76,6 +76,8 @@ The application is deployed on Hugging Face Spaces.
 * **Data Storage:** Uses a local reviews.csv for data persistence.
    * Note: On the free tier, this file resets when the Space restarts.
  
+* **Project Link:** https://huggingface.co/spaces/garychand/task2_webapp
+ 
 ## 👤 Author
 * **Gaurav Thakur**
 * **Github:** https://github.com/gauravchand
